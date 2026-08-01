@@ -50,7 +50,7 @@ Class-AB Power Amplifier
 ├── power_amp/             # Class-AB power amplifier
 ├── full_circuit/          # Complete integrated amplifier simulation
 ├── Project_Report.pdf     # Final project report with derivations and results
-├── ROugh_design_ref.pdf   # Initial design calculations and reference notes
+├── Rough_design_ref.pdf   # Initial design calculations and reference notes
 └── README.md
 ```
 
